@@ -8,7 +8,7 @@
 
 Prescription drug access is shaped not only by insurance coverage, but also by the complex interaction of formulary design, utilization management policies, disease burden, and geographic inequities.
 
-MetroRx Market Access examines how coverage restrictions—including prior authorization, step therapy, and quantity limits—vary across Medicaid Managed Care Organizations (MCOs) serving New York City and how these policies may disproportionately affect communities with high healthcare needs.
+MetroRx Market Access examines how coverage restrictions including prior authorization, step therapy, and quantity limits, vary across Medicaid Managed Care Organizations (MCOs) serving New York City and how these policies may disproportionately affect communities with high healthcare needs.
 
 By integrating Medicaid, CMS, Census, and public health datasets, this project develops a multidimensional framework to evaluate treatment accessibility across neighborhoods, benchmark payer policies, and identify areas where regulatory and formulary decisions may contribute to unequal health outcomes.
 

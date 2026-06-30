@@ -1,7 +1,6 @@
 # MetroRx Market Access
 
-### Quantifying Geographic and Policy-Driven Disparities in Prescription Drug Access Across New York City's Medicaid Managed Care Landscape
-
+### Benchmarking Formulary Coverage and Utilization Management Policies Across Major New York Health Plans
 ---
 
 ## Objective
@@ -10,7 +9,7 @@ Prescription drug access is shaped not only by insurance coverage, but also by t
 
 MetroRx Market Access examines how coverage restrictions including prior authorization, step therapy, and quantity limits, vary across Medicaid Managed Care Organizations (MCOs) serving New York City and how these policies may disproportionately affect communities with high healthcare needs.
 
-By integrating Medicaid, CMS, Census, and public health datasets, this project develops a multidimensional framework to evaluate treatment accessibility across neighborhoods, benchmark payer policies, and identify areas where regulatory and formulary decisions may contribute to unequal health outcomes.
+By integrating Medicaid, CMS, Census, and public health datasets, this project evaluates publicly available formulary coverage and utilization management policies across major health plans serving New York. By comparing coverage decisions, prior authorization requirements, step therapy protocols, and quantity limits for high-impact therapeutic classes, the project identifies potential differences in medication accessibility and develops a framework for assessing geographic treatment barriers using public health and demographic data.
 
 ---
 
